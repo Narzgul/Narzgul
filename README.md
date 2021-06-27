@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @T-Zocker
-- 👀 I’m interested in Minecraft Plugin and Mod coding
+- 👀 I’m interested in Minecraft Plugin and Mod coding, and Java in generall
 - 📫 How to reach me: Don't
 
 <!---
